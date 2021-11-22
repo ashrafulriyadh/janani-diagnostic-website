@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Digital X-Ray",
+        "details": "Digital radiography is a form of radiography that uses x-ray–sensitive plates to directly capture data during the patient examination, immediately transferring it to a computer system without the use of an intermediate cassette.",
+        "price": "$ 10.99",
+        "img": "https://i.ibb.co/Y4g7WRG/depositphotos-18368563-stock-photo-radiologists-with-patient-in-x.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Spiral CT-Scan",
+        "details": "A spiral computed tomography (CT) scan takes images using radiation. ... Spiral CT uses a faster machine that spins continuously around the body. This allows it to more quickly detect images and spot problems. It can also detect small nodules (early-stage lung disease) that cannot be clearly seen on chest x-rays.",
+        "price": "$ 7.99",
+        "img": "https://i.ibb.co/KN4L5Fd/pt-scan.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ultrasonography",
+        "details": "Medical ultrasound is a diagnostic imaging technique based on the application of ultrasound. It is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs. Its aim is often to find a source of a disease or to exclude pathology.",
+        "price": "$ 11.99",
+        "img": "https://i.ibb.co/ZccGRh5/enterprise-ultrasound.jpg"
+    },
+    {
+        "id": 4,
+        "name": "ECG",
+        "details": "Electrocardiography is the process of producing an electrocardiogram, a recording – a graph of voltage versus time – of the electrical activity of the heart using electrodes placed on the skin.",
+        "price": "$ 8.99 ",
+        "img": "https://i.ibb.co/tXGKZsR/360-F-290470191-OIjv-Qy1a-ZJp4wu-Yp-Rv-Ls6n-IMzv-LMf-INu.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Endoscopy",
+        "details": "An endoscopy is a procedure where organs inside your body are looked at using an instrument called an endoscope. An endoscope is a long, thin, flexible tube that has a light and camera at one end. Images of the inside of your body are shown on a television screen.",
+        "price": "$ 14.99",
+        "img": "https://i.ibb.co/Px7GZRJ/gastrointestinal-fiberoptic-endoscopy-260nw-777698347.jpg"
+    },
+    {
+        "id": 6,
+        "name": "OPG",
+        "details": "An OPG is a panoramic X-ray of the upper and lower jaws, including the teeth. The OPG unit is specifically designed to rotate around the patient's head during the scan. An OPG will take approximately 20 seconds. An OPG can be used to look for. Fractures.",
+        "price": "$ 6.99",
+        "img": "https://i.ibb.co/kmJnwkX/Panoramic-Xray.jpghttps://i.ibb.co/0FHr23v/Panoramic-Xray.jpg"
+    }
+]

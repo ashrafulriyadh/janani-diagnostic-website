@@ -1,0 +1,14 @@
+
+@media (max-width: 576px) { .report-img {
+	width: 200px;
+	overflow-x: hidden;
+	margin: 40px;
+}
+}
+
+@media (min-width: 576px) { .report-img {
+	width: 400px;
+	overflow-x: hidden;
+	margin: 40px;
+}
+}
